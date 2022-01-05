@@ -3,6 +3,10 @@
 <!--
 **iiradia/iiradia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+#### [Email](mailto:iiradia@ncsu.edu) - [LinkedIn](https://www.linkedin.com/in/ishaan-radia/)
+
+Hey, I'm Ishaan - I just graduated from NC State with a Bachelors in Statistics and I'll be starting full-time as a Software Engineer soon! 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
