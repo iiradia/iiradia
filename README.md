@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 #### [Email](mailto:iiradia@ncsu.edu) - [LinkedIn](https://www.linkedin.com/in/ishaan-radia/)
 
-I just graduated from NC State with a Bachelors in Statistics and I'll be starting full-time as a Software Engineer soon! 
+I'll be starting full-time as a Software Engineer soon!
