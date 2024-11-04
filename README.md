@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### [Email](mailto:iiradia@ncsu.edu) - [LinkedIn](https://www.linkedin.com/in/ishaan-radia/)
+#### [Email](mailto:ishaanradia12@gmail.com) - [LinkedIn](https://www.linkedin.com/in/ishaan-radia/)
 
-I'll be starting full-time as a Software Engineer soon!
+I work on the Fast Trading Engineering team at Two Sigma, where I build 🛠️ trading systems 📈 using Rust, Java, and Python.
